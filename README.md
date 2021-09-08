@@ -41,7 +41,7 @@
 <br />
 <br />
 
-[website]: https://gaganchaudhary.me
+[website]: https://gaganchaudhary.com
 [gmail]: mailto:gaganveermaan@gmail.com
 [instagram]: https://instagram.com/gagan_chaudhary__
 [linkedin]: https://linkedin.com/in/thegaganchaudhary
