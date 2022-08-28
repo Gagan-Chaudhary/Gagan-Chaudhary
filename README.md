@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning MERN 
 - 💻 I’m a frontend developer
-- 🥅 2021 Goals: Build some new cool projects
+- 🥅 2022 Goals: Build some new cool projects
 
 ### Connect with me:
 
