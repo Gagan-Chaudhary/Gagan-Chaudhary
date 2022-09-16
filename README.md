@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Gagan 
 
-- 🌱 I’m currently learning MERN 
-- 💻 I’m a frontend developer
+- 🌱 I’m currently building MERN projects
+- 💻 I’m a Full stack developer
 - 🥅 2022 Goals: Build some new cool projects
 
 ### Connect with me:
