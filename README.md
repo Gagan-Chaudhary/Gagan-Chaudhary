@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Gagan 
+### Hi there! 👋 I'm Gagan
 
 Welcome to my GitHub profile! 🚀
 
@@ -63,4 +63,4 @@ Welcome to my GitHub profile! 🚀
 
 ---
 
-![Profile Views](https://gpvc.arturio.dev/gagan-chaudhary)
+![Profile Views](https://komarev.com/ghpvc/?username=gagan-chaudhary&color=blueviolet)
