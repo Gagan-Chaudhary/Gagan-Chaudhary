@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀
 
 - 🌱 **Currently Building**: Scalable MERN stack projects and diving deeper into full-stack development
 - 💻 **Full Stack Developer**: Passionate about crafting seamless user experiences and robust backend systems
-- 🎯 **2024-25 Goals**: Contribute to open-source projects, launch impactful applications, and expand knowledge in cloud and DevOps
+- 🎯 **2025-26 Goals**: Contribute to open-source projects, launch impactful applications, and expand knowledge in cloud and DevOps
 - 🌐 **Portfolio**: [gaganchaudhary.com](https://gaganchaudhary.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagan-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="gagan-chaudhary" /> </p>
