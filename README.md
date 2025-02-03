@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 🚀
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagan-chaudhary" alt="gagan-chaudhary" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gaganchaudharyy" target="blank"><img src="https://img.shields.io/twitter/follow/gaganchaudharyy?logo=twitter&style=for-the-badge" alt="gaganchaudharyy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chaudharyygagan" target="blank"><img src="https://img.shields.io/twitter/follow/chaudharyygagan?logo=twitter&style=for-the-badge" alt="chaudharyygagan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
